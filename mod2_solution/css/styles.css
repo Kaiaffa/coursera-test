@@ -19,6 +19,8 @@ p {
   margin-right: auto;
   margin-left: auto;
   padding: 4px;
+  height: 116px;
+  overflow: auto;
 }
 
 /*section title*/
